@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/du-fehlst-mir-so/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Du fehlst mir so](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-fehlst-mir-so/) |
+| **Get License** | [Commercial Licensing for Du fehlst mir so](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-fehlst-mir-so/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d6f0d99f8482b3dd063a778e4eda59621bd8cf4c3e5c1ae6610d612061f6c30f` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

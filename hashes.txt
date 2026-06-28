@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Du fehlst mir so
+
+This log tracks the cryptographic history and versioning for the song **Du fehlst mir so** (du-fehlst-mir-so).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:24:25.691100 | `v1` | `d6f0d99f8482b3dd063a778e4eda59621bd8cf4c3e5c1ae6610d612061f6c30f` | `b0bc10db04dcfaea69d5f9481c04565f42c31ac71546b1cb3f3b415fc8b60408` | `2026-06-28_du-fehlst-mir-so-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
