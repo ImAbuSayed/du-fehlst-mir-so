@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/du-fehlst-mir-so/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Du fehlst mir so](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-fehlst-mir-so/) |
+| **Get License** | [Get License For Du fehlst mir so](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/du-fehlst-mir-so/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll' im Benz durch die Nacht, such' nur nach deinem Gesicht
+> Neonlicht blendet hell, doch ich fokussiere auf dich
+> Du bist mein Vibe, meine Sucht, mein absoluter Glow
+> Verdammt, wo bist du heute Nacht? Du fehlst mir so
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
